@@ -19,7 +19,7 @@ My long-term goal is to gain the skills needed to work on autonomous driving sys
 - Understanding how ROS 2 enables modular, distributed, and real-time behavior in robotic systems
 - Transitioning into **Autoware.AI** and **Autoware.Auto** development environments
 
-## 📚 What You'll Find Here
+## 📚 What You'll Find Here (TODO)
 
 - 📁 `tutorials/`: Code examples based on ROS 2 official tutorials
 - 🧪 `experiments/`: Custom test nodes and communication patterns
